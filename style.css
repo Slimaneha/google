@@ -1,12 +1,14 @@
 header {
 	text-align: right;
 	margin-right: 15px;
+	font-weight: bold;
 }
 a {
-	color: #585858; /* Link color */
+	color: #6E6E6E; /* Link color */
 
 }
-button {
+button { /* Option button */
+
 	width: 120px;
 	height: 30px;
 	background-color: #3152A4;
@@ -15,18 +17,58 @@ button {
 	border-style: ridge;
 }
 
-img{
-	height:400px;
+img{ /* option css images */
+
 	width: 600px;
-	margin: 80px 100px 300px 450px;
+	margin-top: 100px;
+	margin-left: 450px;
 }
 
 
 
 
-#bar {
+#bar {   /* option css bar de recherche*/
 	width:500px; 
 	height:20px;
-	margin-top: 80px 100px 300px 450px ;
+	margin-left: 500px;
 	align-content: center;
+	}
+
+	#but { /* bouton recherche */
+
+		width: 130px;
+		height: 35px;
+		background-color: 
+		border-style: ridge 5px;
+		margin-left: 550px;
+		font-weight: bold;
+		color: #6E6E6E;
+	}
+	
+	#but1 { /*bouton chance google */
+		width: 130px;
+		height: 35px;
+		background-color:#D8D8D8; 
+		border-style: ridge 5px;
+		margin-left: 100px;
+		font-weight: bold;
+		color:#6E6E6E;
+	}
+	
+	footer {
+		margin-top:10%;
+		margin-bottom: 0;
+	background-color: #D8D8D8;
+
+
+	}
+
+#gauche {
+		text-align: left;
+		color: red;
+	}
+
+	#droite {
+		text-align: right;
+		color: blue;
 	}
