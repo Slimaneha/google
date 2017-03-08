@@ -1,0 +1,13 @@
+header {
+	text-align: right;
+}
+a {
+	color: #848484; /* Link color */
+
+}
+
+img{
+	height:400px;
+	width: 600px;
+	margin: 80px 100px 300px 450px;
+}
