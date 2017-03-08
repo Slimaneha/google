@@ -1,9 +1,18 @@
 header {
 	text-align: right;
+	margin-right: 15px;
 }
 a {
-	color: #848484; /* Link color */
+	color: #585858; /* Link color */
 
+}
+button {
+	width: 120px;
+	height: 30px;
+	background-color: #3152A4;
+	color: #FAFAFA;
+	font-weight: bold;
+	border-style: ridge;
 }
 
 img{
@@ -11,3 +20,13 @@ img{
 	width: 600px;
 	margin: 80px 100px 300px 450px;
 }
+
+
+
+
+#bar {
+	width:500px; 
+	height:20px;
+	margin-top: 80px 100px 300px 450px ;
+	align-content: center;
+	}
