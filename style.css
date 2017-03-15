@@ -48,7 +48,6 @@ img{ /* option css images */
 	#but1 { /*bouton chance google */
 		width: 130px;
 		height: 35px;
-		backgr00 
 		border-style: ridge 5px;
 		margin-left: 100px;
 		font-weight: bold;
@@ -63,12 +62,6 @@ img{ /* option css images */
 
 	}
 
-#gauche {
-		text-align: left;
-		padding-bottom: 50px;
-	}
-
-	#droite {
-		text-align: center;
-	
-	}
+footer #droite {
+	text-align: right;
+}
